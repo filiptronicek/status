@@ -20,6 +20,8 @@ sites:
     url: https://external.trnck.dev/?url=https://www.electronicbeats.net/app/uploads/2016/06/rickastley.jpg
   - name: trnck.dev cloud CDN
     url: https://trnck.dev/0:/Docs/resume.pdf
+  - name: Time API
+    url: https://trnck.dev/time
 
 assignees:
   - filiptronicek
