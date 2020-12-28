@@ -130,19 +130,19 @@
     "url": "https://trnck.dev/0:/Docs/resume.pdf",
     "icon": "https://favicons.githubusercontent.com/trnck.dev",
     "slug": "trnck-dev-cloud-cdn",
-    "status": "down",
-    "uptime": "0.34%",
-    "uptimeDay": "0.34%",
-    "uptimeWeek": "0.34%",
-    "uptimeMonth": "0.34%",
-    "uptimeYear": "0.34%",
-    "time": 694,
-    "timeDay": 694,
-    "timeWeek": 694,
-    "timeMonth": 694,
-    "timeYear": 694,
+    "status": "up",
+    "uptime": "0.72%",
+    "uptimeDay": "0.72%",
+    "uptimeWeek": "0.72%",
+    "uptimeMonth": "0.72%",
+    "uptimeYear": "0.72%",
+    "time": 846,
+    "timeDay": 846,
+    "timeWeek": 846,
+    "timeMonth": 846,
+    "timeYear": 846,
     "dailyMinutesDown": {
-      "2020-12-28": 4
+      "2020-12-28": 15
     }
   },
   {
