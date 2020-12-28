@@ -14,6 +14,10 @@ sites:
     url: https://status.trnck.dev
   - name: Studuj.digital
     url: https://studuj.digital
+  - name: CountDowner
+    url: https://countdowner.now.sh
+  - name: Universal File Proxy
+    url: https://external.iclip.trnck.dev/?url=https://www.electronicbeats.net/app/uploads/2016/06/rickastley.jpg
 
 assignees:
   - filiptronicek
