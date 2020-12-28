@@ -4,10 +4,16 @@ repo: status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Studuj.digital
-    url: https://studuj.digital
   - name: trnck.dev
     url: https://trnck.dev
+  - name: Interclip
+    url: https://interclip.app
+  - name: Blog
+    url: https://blog.trnck.dev
+  - name: Status page
+    url: https://status.trnck.dev
+  - name: Studuj.digital
+    url: https://studuj.digital
 
 assignees:
   - filiptronicek
