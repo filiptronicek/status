@@ -1,7 +1,7 @@
 url: https://status.trnck.dev
-status: up
-code: 200
-responseTime: 1610
-lastUpdated: 2021-01-26T23:30:41.352Z
+status: down
+code: 520
+responseTime: 21666
+lastUpdated: 2021-01-27T17:01:38.473Z
 startTime: Mon Dec 28 2020 13:03:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
