@@ -13,7 +13,7 @@
     "time": 159,
     "timeDay": 201,
     "timeWeek": 149,
-    "timeMonth": 155,
+    "timeMonth": 151,
     "timeYear": 159,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 306,
     "timeDay": 203,
     "timeWeek": 164,
-    "timeMonth": 205,
+    "timeMonth": 206,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2021-02-01": 49,
@@ -53,7 +53,7 @@
     "time": 177,
     "timeDay": 206,
     "timeWeek": 164,
-    "timeMonth": 205,
+    "timeMonth": 202,
     "timeYear": 177,
     "dailyMinutesDown": {}
   },
@@ -71,7 +71,7 @@
     "time": 2068,
     "timeDay": 1142,
     "timeWeek": 3145,
-    "timeMonth": 2427,
+    "timeMonth": 2451,
     "timeYear": 2068,
     "dailyMinutesDown": {
       "2021-02-23": 16,
@@ -101,7 +101,7 @@
     "time": 523,
     "timeDay": 547,
     "timeWeek": 478,
-    "timeMonth": 476,
+    "timeMonth": 474,
     "timeYear": 523,
     "dailyMinutesDown": {
       "2021-02-21": 21,
@@ -122,7 +122,7 @@
     "time": 232,
     "timeDay": 375,
     "timeWeek": 213,
-    "timeMonth": 258,
+    "timeMonth": 247,
     "timeYear": 232,
     "dailyMinutesDown": {}
   },
@@ -132,19 +132,17 @@
     "icon": "https://favicons.githubusercontent.com/external.trnck.dev",
     "slug": "universal-file-proxy",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2508,
     "timeDay": 5893,
     "timeWeek": 3149,
-    "timeMonth": 2669,
+    "timeMonth": 2648,
     "timeYear": 2508,
-    "dailyMinutesDown": {
-      "2021-02-23": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Time API",
