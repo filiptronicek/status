@@ -137,18 +137,20 @@
     "url": "https://external.trnck.dev/?url=https://www.electronicbeats.net/app/uploads/2016/06/rickastley.jpg",
     "icon": "https://favicons.githubusercontent.com/external.trnck.dev",
     "slug": "universal-file-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2391,
-    "timeDay": 633,
-    "timeWeek": 1806,
-    "timeMonth": 2239,
-    "timeYear": 2391,
-    "dailyMinutesDown": {}
+    "time": 2489,
+    "timeDay": 5403,
+    "timeWeek": 2852,
+    "timeMonth": 2504,
+    "timeYear": 2489,
+    "dailyMinutesDown": {
+      "2021-03-09": 0
+    }
   },
   {
     "name": "Time API",
