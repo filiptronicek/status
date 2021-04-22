@@ -12,8 +12,6 @@ sites:
     url: https://blog.trnck.dev
   - name: Status page
     url: https://status.trnck.dev
-  - name: Studuj.digital
-    url: https://studuj.digital
   - name: CountDowner
     url: https://countdowner.now.sh
   - name: Universal File Proxy
