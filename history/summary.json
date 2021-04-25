@@ -24,7 +24,7 @@
     "slug": "interclip",
     "status": "up",
     "uptime": "97.32%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "1.39%",
     "uptimeWeek": "57.75%",
     "uptimeMonth": "90.28%",
     "uptimeYear": "97.32%",
@@ -120,9 +120,9 @@
     "url": "https://external.trnck.dev/?url=https://www.electronicbeats.net/app/uploads/2016/06/rickastley.jpg",
     "icon": "https://favicons.githubusercontent.com/external.trnck.dev",
     "slug": "universal-file-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -131,7 +131,9 @@
     "timeWeek": 1841,
     "timeMonth": 2010,
     "timeYear": 2298,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-25": 0
+    }
   },
   {
     "name": "Time API",
