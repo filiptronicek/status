@@ -6,9 +6,9 @@
     "slug": "trnck-dev",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.96%",
     "time": 185,
     "timeDay": 150,
@@ -16,7 +16,6 @@
     "timeMonth": 157,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2021-06-25": 9,
       "2021-06-24": 25,
       "2021-06-05": 76
     }
